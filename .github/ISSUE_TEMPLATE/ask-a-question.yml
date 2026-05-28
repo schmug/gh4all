@@ -1,0 +1,34 @@
+name: Ask a question / request a change
+description: Ask about a document, or suggest something be added or changed.
+title: "[Question/Request]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Happy to help! Just fill in the boxes below — no technical knowledge
+        needed. Our team will reply in this thread.
+  - type: input
+    id: document-name
+    attributes:
+      label: Which document?
+      description: The name of the document this is about (or paste a link). Put "General" if it's not about a specific one.
+      placeholder: e.g., Vendor Security Questions
+    validations:
+      required: true
+  - type: input
+    id: organization-unit
+    attributes:
+      label: Your organization or unit
+      description: The organization, team, or unit you're with.
+      placeholder: e.g., Example Org
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Your question or request
+      description: Ask your question, or describe the change you'd like to see and why.
+      placeholder: e.g., Could we add a section about...
+    validations:
+      required: true

@@ -1,0 +1,34 @@
+name: Report a problem with a document
+description: Something in a document is wrong, out of date, unclear, or broken.
+title: "[Problem]: "
+labels: ["problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for flagging this! Just fill in the boxes below — no technical
+        knowledge needed. Our team will follow up in this thread.
+  - type: input
+    id: document-name
+    attributes:
+      label: Which document?
+      description: The name of the document (or paste a link to it).
+      placeholder: e.g., Incident Response Checklist
+    validations:
+      required: true
+  - type: input
+    id: organization-unit
+    attributes:
+      label: Your organization or unit
+      description: The organization, team, or unit you're with.
+      placeholder: e.g., Example Org
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What's the problem?
+      description: Tell us what's wrong, out of date, or confusing — and where in the document, if you can.
+      placeholder: e.g., Section 2 lists an old phone number for...
+    validations:
+      required: true

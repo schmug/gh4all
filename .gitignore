@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor / temp files
+*~
+*.swp
+*.tmp
+*.bak
+.idea/
+.vscode/
