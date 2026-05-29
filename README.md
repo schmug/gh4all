@@ -108,5 +108,3 @@ They're living references meant to be adapted to your local context. Review and 
 
 - Open an **Issue** (see section 3 above), or
 - Contact us at **gh4all@cortech.online**.
-
-*Maintained by the [Your Program Name] team.*
