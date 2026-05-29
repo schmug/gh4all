@@ -27,6 +27,7 @@
   - [Interoperability](#interoperability)
   - [Funding Digital Resources and Initiatives](#funding-digital-resources-and-initiatives)
   - [Library Collection Plans](#library-collection-plans)
+  - [Training Plans for Digital and Print Collections](#training-plans-for-digital-and-print-collections)
   - [Instructional Framework](#instructional-framework)
   - [Blended Learning](#blended-learning)
   - [Personalized Learning](#personalized-learning)
@@ -37,6 +38,7 @@
   - [Other Resources for Cybersecurity](#other-resources-for-cybersecurity)
   - [Data Privacy Resources](#data-privacy-resources)
   - [Cybersecurity Training](#cybersecurity-training)
+  - [Data Privacy Training](#data-privacy-training)
 - [Technology Infrastructure and Devices](#technology-infrastructure-and-devices)
   - [Digital Learning and Media Inventory](#digital-learning-and-media-inventory)
   - [Device Management](#device-management)
@@ -164,6 +166,8 @@ Technology leaders who wish to learn more about these particular topics and beco
 
 ### Budgets for Professional Learning
 
+*Placeholder — no resources are listed for this section in the source guidebook yet.*
+
 > **Goal 2:** There is consistent and equitable access to Instructional Technology Facilitators and School Library Media Coordinators to support the implementation of digital teaching and learning strategies.
 
 ### Instructional Technology Facilitator
@@ -244,6 +248,10 @@ Each PSU must have a person who is the SIS Coordinator. This person ensures comp
 - [Resources For Reconsideration of Materials](https://docs.google.com/document/d/1DyV5u1c9gz6tDDquVNDZdOyKi5FtWU1Czn9VuosVBI8/edit)
 - [In Focus Collection Guidelines](https://drive.google.com/file/d/14XVwikHmeJgrQFvVvDZxQ3nkadeXd8A-/view)
 
+### Training Plans for Digital and Print Collections
+
+*Placeholder — no resources are listed for this section in the source guidebook yet.*
+
 > **Goal 3:** All staff demonstrate mastery of the NC Digital Learning Competencies to create blended and personalized learning experiences to improve student outcomes.
 
 ### Instructional Framework
@@ -307,6 +315,10 @@ For student standards in the areas of Digital Learning (K-12), North Carolina ha
 ### Cybersecurity Training
 
 - [KnowBe4](https://www.knowbe4.com/kmsat-request-a-demo-1?utm_term=knowbe4&utm_campaign=Google_Brand_Search&utm_source=google&utm_medium=cpc&gad=1&gclid=CjwKCAjwx_eiBhBGEiwA15gLN10-gW2E1w0b01e0eLdZwqQG4NfBGQ7oQ_0QO-shC9NoEr6UVUisaxoCNkkQAvD_BwE): This is a program that is provided statewide for all K-12 PSUs. To get access to this program, please contact [Tim Wease](mailto:timothy.wease@dpi.nc.gov).
+
+### Data Privacy Training
+
+*Placeholder — no resources are listed for this section in the source guidebook yet.*
 
 ## Technology Infrastructure and Devices
 
